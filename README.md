@@ -16,7 +16,7 @@ Aqui estão alguns dos projetos que estou trabalhando ou já terminei:
 
 ## 📈 Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=[Gomesvmg]&show_icons=true&count_private=true&hide=prs&theme=radical)
+[![Vinicius Gomes's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gomesvmg)](https://github.com/Gomesvmg/github-readme-stats)
 
 ## 💬 Contato
 
