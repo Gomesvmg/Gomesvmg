@@ -1,16 +1,26 @@
-## Hi there 👋
+# Olá, meu nome é Vinicius Gomes 👋
 
-<!--
-**Gomesvmg/Gomesvmg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Seja bem-vindo ao meu perfil no GitHub! Aqui você encontrará meus projetos de programação, onde busco melhorar minhas habilidades e construir um portfólio.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Estudante dedicado com experiência em Python, JavaScript, HTML/CSS.
+- Apaixonado por programação, desenvolvimento web e Inteligencia Artificial.
+- Sempre em busca de aprender mais e aprimorar minhas habilidades.
+
+## 📚 Projetos
+
+Aqui estão alguns dos projetos que estou trabalhando ou já terminei:
+
+- [**Projeto teste**](https://github.com/Gomesvmg/test): Projeto onde estou aplicando tudo que aprendo.
+
+## 📈 Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=[Gomesvmg]&show_icons=true&count_private=true&hide=prs&theme=radical)
+
+## 💬 Contato
+
+- [LinkedIn](https://www.linkedin.com/in/vinicius-gomes-53bb0032b)
+- Email: viniciusgomesgit7@gmail.com
+
+Estou sempre aberto a novas ideias e colaborações! Se você estiver interessado em trabalhar comigo ou discutir sobre tecnologia, fique à vontade para entrar em contato.
