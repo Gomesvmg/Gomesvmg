@@ -5,7 +5,7 @@ Seja bem-vindo ao meu perfil no GitHub! Aqui você encontrará meus projetos de 
 ## 🚀 Sobre mim
 
 - Estudante dedicado com experiência em Python, JavaScript, HTML/CSS.
-- Apaixonado por programação, desenvolvimento web e Inteligencia Artificial.
+- Apaixonado por programação e desenvolvimento web.
 - Sempre em busca de aprender mais e aprimorar minhas habilidades.
 
 ## 📚 Projetos
