@@ -24,3 +24,7 @@ Aqui estão alguns dos projetos que estou trabalhando ou já terminei:
 - Email: viniciusgomesgit7@gmail.com
 
 Estou sempre aberto a novas ideias e colaborações! Se você estiver interessado em trabalhar comigo ou discutir sobre tecnologia, fique à vontade para entrar em contato.
+
+## Curriculo
+
+- [curriculo](https://docs.google.com/document/d/1H8T7gcs1MvMVfUenNgBMQJDga9HZm-bfTo3W97mU-TA/edit?usp=sharing)
