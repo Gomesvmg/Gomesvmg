@@ -14,7 +14,7 @@ Aqui estão alguns dos projetos que estou trabalhando ou já terminei:
 
 - [**Portifolio Pessoal**](https://github.com/Gomesvmg/portifolio-pessoal): Projeto onde estou aplicando tudo que aprendo para construir meu portifolio.
 
-- [**Reordenador de numeros**](https://github.com/Gomesvmg/portifolio-pessoal): Projeto que reordena numeros em ordem crescente feito com o objetivo de conceitos de logica de programação.
+- [**Reordenador de numeros**](https://github.com/Gomesvmg/reordering-numbers): Projeto que reordena numeros em ordem crescente feito com o objetivo de conceitos de logica de programação.
 
 ## 💬 Contato
 
