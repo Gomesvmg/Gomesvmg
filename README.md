@@ -16,14 +16,10 @@ Aqui estão alguns dos projetos que estou trabalhando ou já terminei:
 
 - [**Reordenador de numeros**](https://github.com/Gomesvmg/portifolio-pessoal): Projeto que reordena numeros em ordem crescente feito com o objetivo de conceitos de logica de programação.
 
-## 📈 Stats
-
-[![Vinicius Gomes's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gomesvmg)](https://github.com/Gomesvmg/github-readme-stats)
-
 ## 💬 Contato
 
-- [LinkedIn](https://www.linkedin.com/in/vinicius-gomes-53bb0032b)
-- Email: viniciusgomesgit7@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-gomes-53bb0032b)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](viniciusgomesgit7@gmail.com)
 
 Estou sempre aberto a novas ideias e colaborações! Se você estiver interessado em trabalhar comigo ou discutir sobre tecnologia, fique à vontade para entrar em contato.
 
