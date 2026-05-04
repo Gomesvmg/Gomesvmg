@@ -12,7 +12,9 @@ Seja bem-vindo ao meu perfil no GitHub! Aqui você encontrará meus projetos de 
 
 Aqui estão alguns dos projetos que estou trabalhando ou já terminei:
 
-- [**Projeto teste**](https://github.com/Gomesvmg/test): Projeto onde estou aplicando tudo que aprendo.
+- [**Portifolio Pessoal**](https://github.com/Gomesvmg/portifolio-pessoal): Projeto onde estou aplicando tudo que aprendo para construir meu portifolio.
+
+- [**Reordenador de numeros**](https://github.com/Gomesvmg/portifolio-pessoal): Projeto que reordena numeros em ordem crescente feito com o objetivo de conceitos de logica de programação.
 
 ## 📈 Stats
 
